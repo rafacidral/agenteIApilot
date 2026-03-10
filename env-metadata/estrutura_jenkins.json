@@ -1,0 +1,1718 @@
+﻿{
+    "JenkinsHome":  "C:\\Users\\testegpes\\.jenkins",
+    "MainFiles":  [
+                      {
+                          "Name":  "cache"
+                      },
+                      {
+                          "Name":  "caches"
+                      },
+                      {
+                          "Name":  "fingerprints"
+                      },
+                      {
+                          "Name":  "htmlresource"
+                      },
+                      {
+                          "Name":  "jobs"
+                      },
+                      {
+                          "Name":  "labels"
+                      },
+                      {
+                          "Name":  "logs"
+                      },
+                      {
+                          "Name":  "nodes"
+                      },
+                      {
+                          "Name":  "plugins"
+                      },
+                      {
+                          "Name":  "secrets"
+                      },
+                      {
+                          "Name":  "updates"
+                      },
+                      {
+                          "Name":  "userContent"
+                      },
+                      {
+                          "Name":  "users"
+                      },
+                      {
+                          "Name":  "war"
+                      },
+                      {
+                          "Name":  "workspace"
+                      },
+                      {
+                          "Name":  ".lastStarted"
+                      },
+                      {
+                          "Name":  ".owner"
+                      },
+                      {
+                          "Name":  "build-failure-analyzer.xml"
+                      },
+                      {
+                          "Name":  "com.chikli.hudson.plugin.naginator.NaginatorPublisher.xml"
+                      },
+                      {
+                          "Name":  "com.cloudbees.hudson.plugins.folder.config.AbstractFolderConfiguration.xml"
+                      },
+                      {
+                          "Name":  "com.cloudbees.jenkins.plugins.bitbucket.endpoints.BitbucketEndpointConfiguration.xml"
+                      },
+                      {
+                          "Name":  "config.xml"
+                      },
+                      {
+                          "Name":  "credentials.xml"
+                      },
+                      {
+                          "Name":  "envinject-plugin-configuration.xml"
+                      },
+                      {
+                          "Name":  "envInject.xml"
+                      },
+                      {
+                          "Name":  "github-plugin-configuration.xml"
+                      },
+                      {
+                          "Name":  "hudson.maven.MavenModuleSet.xml"
+                      },
+                      {
+                          "Name":  "hudson.model.UpdateCenter.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.build_timeout.global.GlobalTimeOutConfiguration.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.build_timeout.operations.BuildStepOperation.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.depgraph_view.DependencyGraphProperty.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.emailext.ExtendedEmailPublisher.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.git.GitSCM.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.git.GitTool.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.gradle.enriched.EnrichedSummaryConfig.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.gradle.Gradle.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.gradle.injection.InjectionConfig.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.groovy.Groovy.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.powershell.PowerShellInstallation.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.sidebar_link.SidebarLinkPlugin.xml"
+                      },
+                      {
+                          "Name":  "hudson.plugins.timestamper.TimestamperConfig.xml"
+                      },
+                      {
+                          "Name":  "hudson.scm.BlameSubversionSCM.xml"
+                      },
+                      {
+                          "Name":  "hudson.scm.CVSSCM.xml"
+                      },
+                      {
+                          "Name":  "hudson.scm.SubversionSCM.xml"
+                      },
+                      {
+                          "Name":  "hudson.tasks.Ant.xml"
+                      },
+                      {
+                          "Name":  "hudson.tasks.Mailer.xml"
+                      },
+                      {
+                          "Name":  "hudson.tasks.Maven.xml"
+                      },
+                      {
+                          "Name":  "hudson.tasks.Shell.xml"
+                      },
+                      {
+                          "Name":  "hudson.triggers.SCMTrigger.xml"
+                      },
+                      {
+                          "Name":  "identity.key.enc"
+                      },
+                      {
+                          "Name":  "io.jenkins.plugins.coverage.metrics.steps.CoverageAppearanceConfiguration.xml"
+                      },
+                      {
+                          "Name":  "io.jenkins.plugins.customizable_header.CustomHeaderConfiguration.xml"
+                      },
+                      {
+                          "Name":  "io.jenkins.plugins.junit.storage.JunitTestResultStorageConfiguration.xml"
+                      },
+                      {
+                          "Name":  "io.jenkins.plugins.prism.PrismAppearanceConfiguration.xml"
+                      },
+                      {
+                          "Name":  "io.jenkins.plugins.prism.PrismConfiguration.xml"
+                      },
+                      {
+                          "Name":  "io.jenkins.plugins.thememanager.ThemeManagerPageDecorator.xml"
+                      },
+                      {
+                          "Name":  "jenkins.advancedqueue.PriorityConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.advancedqueue.PrioritySorterConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.fingerprints.GlobalFingerprintConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.install.InstallUtil.lastExecVersion"
+                      },
+                      {
+                          "Name":  "jenkins.install.UpgradeWizard.state"
+                      },
+                      {
+                          "Name":  "jenkins.metrics.api.MetricsAccessKey.xml"
+                      },
+                      {
+                          "Name":  "jenkins.model.ArtifactManagerConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.model.DownloadSettings.xml"
+                      },
+                      {
+                          "Name":  "jenkins.model.GlobalBuildDiscarderConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.model.GlobalComputerRetentionCheckIntervalConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.model.JenkinsLocationConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.mvn.GlobalMavenConfig.xml"
+                      },
+                      {
+                          "Name":  "jenkins.plugins.git.GitHooksConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.security.apitoken.ApiTokenPropertyConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.security.QueueItemAuthenticatorConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.security.ResourceDomainConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.security.UpdateSiteWarningsConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.tasks.filters.EnvVarsFilterGlobalConfiguration.xml"
+                      },
+                      {
+                          "Name":  "jenkins.telemetry.Correlator.xml"
+                      },
+                      {
+                          "Name":  "jenkins.war"
+                      },
+                      {
+                          "Name":  "jobConfigHistory.xml"
+                      },
+                      {
+                          "Name":  "nodeMonitors.xml"
+                      },
+                      {
+                          "Name":  "org.codefirst.SimpleThemeDecorator.xml"
+                      },
+                      {
+                          "Name":  "org.jenkins.ci.plugins.xframe_filter.XFrameFilterPageDecorator.xml"
+                      },
+                      {
+                          "Name":  "org.jenkins.plugins.lockableresources.LockableResourcesManager.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.displayurlapi.DefaultDisplayURLProviderGlobalConfiguration.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.gitclient.GitHostKeyVerificationConfiguration.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.gitclient.JGitApacheTool.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.gitclient.JGitTool.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.github_branch_source.GitHubConfiguration.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.resourcedisposer.AsyncResourceDisposer.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.workflow.flow.FlowExecutionList.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.workflow.flow.GlobalDefaultFlowDurabilityLevel.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.workflow.libs.GlobalLibraries.xml"
+                      },
+                      {
+                          "Name":  "org.jenkinsci.plugins.workflow.libs.GlobalUntrustedLibraries.xml"
+                      },
+                      {
+                          "Name":  "org.jvnet.hudson.plugins.thinbackup.ThinBackupPluginImpl.xml"
+                      },
+                      {
+                          "Name":  "queue.xml"
+                      },
+                      {
+                          "Name":  "queue.xml.bak"
+                      },
+                      {
+                          "Name":  "scriptApproval.xml"
+                      },
+                      {
+                          "Name":  "secret.key"
+                      },
+                      {
+                          "Name":  "secret.key.not-so-secret"
+                      }
+                  ],
+    "ConfigXmlPresent":  true,
+    "JobsList":  [
+                     {
+                         "Name":  "00 - BaseCP - 1-restaura-sdm-svn"
+                     },
+                     {
+                         "Name":  "00 - BaseCP - 2-classe-manutencao-ap-cp"
+                     },
+                     {
+                         "Name":  "00 - BaseCP - 3 - atualizacao-consistencia-backup-tbs-sdm-svn"
+                     },
+                     {
+                         "Name":  "00 - BaseCP - 4 - backup_postgres_compartilhamento"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 1-restaura-ultimo-backup"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 1-restaura-ultimo-backup-groovy"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-AP"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-BS"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-CS"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-JR"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-ql"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-RS"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-SM"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 2 roda-classe-manutencao-TR"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 3 - atualizacao-consistencia-backup-tbs-sdm-svn"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 4 - backup_postgres_compartilhamento"
+                     },
+                     {
+                         "Name":  "00 - BasePostgre - 5 - backup_oracle_compartilhamento"
+                     },
+                     {
+                         "Name":  "00 - Manutencao - TESTES"
+                     },
+                     {
+                         "Name":  "00 - MSSQL - 1-restaura-ultimo-backup"
+                     },
+                     {
+                         "Name":  "00 - MSSQL - 2 roda-classe-manutencao-ap-bs-cs-jr-ql-rs-sm-tr"
+                     },
+                     {
+                         "Name":  "00 - MSSQL - 4 - backup_postgres_compartilhamento"
+                     },
+                     {
+                         "Name":  "00 - MSSQL- 3 - atualizacao-consistencia-backup-tbs-sdm-svn"
+                     },
+                     {
+                         "Name":  "01-jacoco-copia-arquivos"
+                     },
+                     {
+                         "Name":  "02-jacoco-merge-e-backup"
+                     },
+                     {
+                         "Name":  "03-jacoco-gera-relatorio"
+                     },
+                     {
+                         "Name":  "03-jacoco-gera-relatorioTESTE"
+                     },
+                     {
+                         "Name":  "1 - executar-tudo-ORACLE"
+                     },
+                     {
+                         "Name":  "1 - executar-tudo-POSTGRE"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(001)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(002)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(003)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(004)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(005)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(006)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(007)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(008)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(009)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(010)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(011)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(012)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(013)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(014)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(015)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes(teste458)"
+                     },
+                     {
+                         "Name":  "2 - gestao-pessoas-fontes-ALL"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(001)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(002)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(003)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(003)x"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(004)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(005)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(006)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(007)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(008)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(009)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(010)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(011)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(012)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(013)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(014)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(015)"
+                     },
+                     {
+                         "Name":  "3 - gestao-pessoas-testes(teste458)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(001)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(001)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(002)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(002)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(003)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(003)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(004)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(004)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(005)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(005)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(006)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(006)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(007)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(007)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(008)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(008)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(009)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(009)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(010)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(010)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(011)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(011)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(012)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(012)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(013)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(013)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(014)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(014)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(015)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(015)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(teste105)POSTGRECIDRAL"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(teste105)POSTGRETESTE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(teste458)"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(teste458)ORACLE"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes(teste458)ORACLEcop"
+                     },
+                     {
+                         "Name":  "4.1 - preparar-ambiente-de-testes-ALL"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(001)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(001)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(002)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(002)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(003)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(003)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(004)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(004)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(005)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(005)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(006)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(006)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(007)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(007)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(008)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(008)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(009)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(009)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(010)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(010)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(011)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(011)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(012)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(012)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(013)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(013)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(014)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(014)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(015)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(015)POSTGRE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(teste458)ORACLE"
+                     },
+                     {
+                         "Name":  "4.2 - preparar-ambiente-de-testes-CP(teste458)POSTGRE"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(001)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(002)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(003)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(004)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(005)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(006)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(007)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(008)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(009)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(010)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(011)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(012)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(013)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(014)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(015)"
+                     },
+                     {
+                         "Name":  "5 - validacoes-iniciais-ambiente(teste458)"
+                     },
+                     {
+                         "Name":  "6-executar-testes"
+                     },
+                     {
+                         "Name":  "ap-abreTelas"
+                     },
+                     {
+                         "Name":  "ap-calculos-13salario"
+                     },
+                     {
+                         "Name":  "ap-calculos-13salarioAdiantado"
+                     },
+                     {
+                         "Name":  "ap-calculos-13salarioIntegral"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio2"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio3"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio4"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio5"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio6"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio7"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio8"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoDissidio9"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoFolhaAdto"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoFolhaComplementar"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoFolhaMultiplosVinculos"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoFolhaNormal"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoFolhaNormal2"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoFolhaNormal2TESTE"
+                     },
+                     {
+                         "Name":  "ap-calculos-calculoPLR"
+                     },
+                     {
+                         "Name":  "ap-calculos-conversaoacidentetrabalho"
+                     },
+                     {
+                         "Name":  "ap-calculos-definirCalculo"
+                     },
+                     {
+                         "Name":  "ap-calculos-emissaoCheque"
+                     },
+                     {
+                         "Name":  "ap-calculos-fichaFinanceira"
+                     },
+                     {
+                         "Name":  "ap-calculos-holeritedigital"
+                     },
+                     {
+                         "Name":  "ap-calculos-lancamentoconsignado"
+                     },
+                     {
+                         "Name":  "ap-calculos-lancamentoFixo"
+                     },
+                     {
+                         "Name":  "ap-calculos-lancamentoVariavel"
+                     },
+                     {
+                         "Name":  "ap-calculos-outrosContratos"
+                     },
+                     {
+                         "Name":  "ap-calculos-provisoes"
+                     },
+                     {
+                         "Name":  "ap-calculos-rateio"
+                     },
+                     {
+                         "Name":  "ap-calculos-relatorioCartaBancaria"
+                     },
+                     {
+                         "Name":  "ap-calculos-relatorioEnvelope"
+                     },
+                     {
+                         "Name":  "ap-calculos-salarioFamilia"
+                     },
+                     {
+                         "Name":  "ap-calculos-vales"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-adicionais"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-afastamento"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-anotacoes"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-aposentadoria"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cadastroBeneficioEntePublico"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cadastroDependente"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cadastroEmpregados"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cadastroEstagiarios"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cadastroPAT"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cadastroTerceiros"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cargos"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-categoriaEsocial"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-cessao"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-contasBancarias"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-contratos"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-escala"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-estabilidade"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-exclusaoColaborador"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-ferias-1"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-ferias-2"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-ferias-3"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-ferias-4"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-historico"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-informacoesAdmissionais"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-intermitente"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-licencaEspecial"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-licencaMaternidade"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-manutencaoHistoricos"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-pensaoJudicial"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-professores"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-qualificacaoCadastral"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-reducaoJornada"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-reintegracao"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisao"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoAvisoPrevio"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoCalcular"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoColetiva"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoComplementar"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoFichaFinanceira"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoIndividual"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoListar"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-rescisaoSimulada"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-salarios"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-sindicatos"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-transferenciaEmpresa"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-transferenciaFilial"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-transferencias"
+                     },
+                     {
+                         "Name":  "ap-colaboradores-valeTransporte"
+                     },
+                     {
+                         "Name":  "ap-diversos-analyticsseniorx"
+                     },
+                     {
+                         "Name":  "ap-diversos-usuarios"
+                     },
+                     {
+                         "Name":  "ap-diversos-utilitarios"
+                     },
+                     {
+                         "Name":  "ap-diversos-webservices"
+                     },
+                     {
+                         "Name":  "ap-empresa-alteracao-lotacao"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroCentroDeCusto"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroEmpresas"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroFeriado"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroFilial"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroFotos"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroLocal"
+                     },
+                     {
+                         "Name":  "ap-empresa-cadastroOutrasEmpresas"
+                     },
+                     {
+                         "Name":  "ap-empresa-contabilizacao"
+                     },
+                     {
+                         "Name":  "ap-empresa-definicoesEsocial"
+                     },
+                     {
+                         "Name":  "ap-empresa-processosJudiciais"
+                     },
+                     {
+                         "Name":  "ap-eSocial-admissaoPreliminar"
+                     },
+                     {
+                         "Name":  "ap-eSocial-avisoPrevio"
+                     },
+                     {
+                         "Name":  "ap-eSocial-exclusaoColaborador"
+                     },
+                     {
+                         "Name":  "ap-eSocial-exigibilidadeSuspensa"
+                     },
+                     {
+                         "Name":  "ap-eSocial-fechamentoAdminissao"
+                     },
+                     {
+                         "Name":  "ap-eSocial-rubricas"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1000"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1005"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1010"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1020"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1070"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-Periodicos13Complementar"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosEspeciais"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFerias"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaAdiantamento2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaCategoria997"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaComplementar"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaComplementarDissidio"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaComplementarTESTE"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaDissidioParcelado"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaInfoComplem"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaInfoComplementarContratual"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaNormal1"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaNormal2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaNormal3"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosFolhaNormal4"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosListar"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosMudancaCpfParaRFB"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosPensaoAlimenticia"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-PeriodicosRescisaoComplementar"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1200-S2299Rescisao"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1202"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1207"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-ExigibilidadeSuspensa"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosFerias"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosFolhaComplementar"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosFolhaNormal"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosFolhaRRA"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosInfoDep"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosInfoIRComplem"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1210-PeriodicosRescisao"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1260"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1280"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1299"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S1299TESTE"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2200-S2300"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2200-S2300-2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2205"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2206"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2206-AlteracaoContratual"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2206-HistoricoCargo"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2206-HistoricoCargo2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2206-HistoricoEscala"
+                     },
+                     {
+                         "Name":  "ap-eSocial-s2210"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2230"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2230-2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2230-3"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2230-4"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2231"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2299-S2399"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2299-S2399-2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2299-S2399-3"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2299-S2399-4"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2400"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2405"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2410"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2416"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2418"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S2420"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S3000"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S3000-2"
+                     },
+                     {
+                         "Name":  "ap-eSocial-S3000-3"
+                     },
+                     {
+                         "Name":  "ap-eSocial-trocaCPF"
+                     },
+                     {
+                         "Name":  "ap-eSocial-utilitarios"
+                     },
+                     {
+                         "Name":  "ap-homologacao-tecnologia"
+                     },
+                     {
+                         "Name":  "ap-impostos-consultasFundoGarantia"
+                     },
+                     {
+                         "Name":  "ap-impostos-DIRF"
+                     },
+                     {
+                         "Name":  "ap-impostos-fundogarantia"
+                     },
+                     {
+                         "Name":  "ap-impostos-GPS"
+                     },
+                     {
+                         "Name":  "ap-impostos-impostoDeRenda"
+                     },
+                     {
+                         "Name":  "ap-impostos-RAIS"
+                     },
+                     {
+                         "Name":  "ap-impostos-relacaoINSS"
+                     },
+                     {
+                         "Name":  "ap-impostos-Sefip"
+                     },
+                     {
+                         "Name":  "ap-impostos-Sfinge"
+                     },
+                     {
+                         "Name":  "ap-impostos-sindical"
+                     },
+                     {
+                         "Name":  "ap-integracao-financeira"
+                     },
+                     {
+                         "Name":  "ap-pessoas-cadastroPessoas"
+                     },
+                     {
+                         "Name":  "ap-recursos-modeloRelatorios"
+                     },
+                     {
+                         "Name":  "ap-recursos-relatorioImpExp"
+                     },
+                     {
+                         "Name":  "ap-tabelas-anuidadeAdmissao"
+                     },
+                     {
+                         "Name":  "ap-tabelas-cadastroEventos"
+                     },
+                     {
+                         "Name":  "ap-tabelas-cadastroNacionalidade"
+                     },
+                     {
+                         "Name":  "ap-tabelas-cadastroOrganograma"
+                     },
+                     {
+                         "Name":  "ap-tabelas-cadastroPaises"
+                     },
+                     {
+                         "Name":  "ap-tabelas-cadastroTabelasINSS"
+                     },
+                     {
+                         "Name":  "ap-tabelas-cargos"
+                     },
+                     {
+                         "Name":  "ap-tabelas-causasDemissao"
+                     },
+                     {
+                         "Name":  "ap-tabelas-dadosGPS"
+                     },
+                     {
+                         "Name":  "ap-tabelas-escala"
+                     },
+                     {
+                         "Name":  "ap-tabelas-horarios"
+                     },
+                     {
+                         "Name":  "ap-tabelas-motivosDemissao"
+                     },
+                     {
+                         "Name":  "ap-tabelas-percentuaisGPS"
+                     },
+                     {
+                         "Name":  "ap-tabelas-postoDeTrabalho"
+                     },
+                     {
+                         "Name":  "ap-tabelas-premioAssuidade"
+                     },
+                     {
+                         "Name":  "ap-tabelas-salarioMinimo"
+                     },
+                     {
+                         "Name":  "ap-tabelas-sindicatos"
+                     },
+                     {
+                         "Name":  "ap-tabelas-situacoes"
+                     },
+                     {
+                         "Name":  "ap-tabelas-totalizadorEvento"
+                     },
+                     {
+                         "Name":  "ap-tabelas-vinculos"
+                     },
+                     {
+                         "Name":  "ap-terceiros-atividadeConcomitante"
+                     },
+                     {
+                         "Name":  "ap-terceiros-pagamentoTerceiros"
+                     },
+                     {
+                         "Name":  "atualizar-sdm-dem-6-10-4"
+                     },
+                     {
+                         "Name":  "atualizar-sdm-dem-6-10-4BKP"
+                     },
+                     {
+                         "Name":  "atualizar-sdm-dem-6-10-4xx"
+                     },
+                     {
+                         "Name":  "atualizar-sdm-imp-6-10-4"
+                     },
+                     {
+                         "Name":  "bs-abreTelas"
+                     },
+                     {
+                         "Name":  "bs-beneficios-integracao"
+                     },
+                     {
+                         "Name":  "bs-beneficios-integracaoValeAlimentacaoRefeicao"
+                     },
+                     {
+                         "Name":  "bs-beneficios-integracaoValeTransporte"
+                     },
+                     {
+                         "Name":  "bs-beneficios-modeloRelatorio"
+                     },
+                     {
+                         "Name":  "Consolidado-relatorio-execução-liberacao"
+                     },
+                     {
+                         "Name":  "cp-abreTelas-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-abreTelas-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-apuracao-testCalculoApuracaoAfastamento-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-apuracao-testCalculoApuracaoAfastamento-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-apuracao-testCalculoApuracaoBtnTesteApuracao-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-apuracao-testCalculoApuracaoBtnTesteApuracao-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-apuracao-TestRefeitorio-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-apuracao-TestRefeitorio-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-arquivosFiscaisAEJ-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-atestadoTecnicoATTR-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-atestadoTecnicoATTR-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-apuracao-acertosRateio-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-apuracao-acertosRateio-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-apuracao-testLeituraArquivos-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-apuracao-testLeituraArquivos-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-apuracao-testSaldoSituacoes-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-apuracao-testSaldoSituacoes-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-Integracao-bancoHoras-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-Integracao-bancoHoras-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-integracao-DSR-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-integracao-DSR-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-integracao-faltasFerias-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-integracao-faltasFerias-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-integracao-gerais-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-integracao-gerais-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-calcular-Integracao-perdaDSR-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-calcular-Integracao-perdaDSR-POSTGRE"
+                     },
+                     {
+                         "Name":  "cp-tabelasHorarios-ORACLE"
+                     },
+                     {
+                         "Name":  "cp-tabelasHorarios-POSTGRE"
+                     },
+                     {
+                         "Name":  "cs-abreTelas"
+                     },
+                     {
+                         "Name":  "cs-cargos-anotacoesAvaliacao"
+                     },
+                     {
+                         "Name":  "cs-cargos-cargo"
+                     },
+                     {
+                         "Name":  "cs-cargos-estrutura"
+                     },
+                     {
+                         "Name":  "cs-cargos-postoDeTrabalho"
+                     },
+                     {
+                         "Name":  "cs-recursos-modeloRelatorio"
+                     },
+                     {
+                         "Name":  "cs-salarios-salarios"
+                     },
+                     {
+                         "Name":  "dependencies-update-verification"
+                     },
+                     {
+                         "Name":  "execucao-jobs-massa-pipeline"
+                     },
+                     {
+                         "Name":  "executar-teste-especifico-pipeline"
+                     },
+                     {
+                         "Name":  "job-coleta-scripts-pipeline"
+                     },
+                     {
+                         "Name":  "job-commit-pipeline"
+                     },
+                     {
+                         "Name":  "job-dashboard-pipeline"
+                     },
+                     {
+                         "Name":  "job-falhas-pipeline"
+                     },
+                     {
+                         "Name":  "job-mapeamento-pipeline"
+                     },
+                     {
+                         "Name":  "job-mock-pipeline"
+                     },
+                     {
+                         "Name":  "job-online-vms-pipeline"
+                     },
+                     {
+                         "Name":  "job-preparacao-pipeline"
+                     },
+                     {
+                         "Name":  "job-relatorio-mensal-testes-pipeline"
+                     },
+                     {
+                         "Name":  "job-sdm-imp-pipelinte"
+                     },
+                     {
+                         "Name":  "job-sdm-imp-pipelinte-2"
+                     },
+                     {
+                         "Name":  "jr-abreTelas"
+                     },
+                     {
+                         "Name":  "jr-eSocial-S2500"
+                     },
+                     {
+                         "Name":  "jr-eSocial-S2501"
+                     },
+                     {
+                         "Name":  "jr-eSocial-S3500"
+                     },
+                     {
+                         "Name":  "jr-informacoesTributos"
+                     },
+                     {
+                         "Name":  "jr-processosTrabalhistas"
+                     },
+                     {
+                         "Name":  "jr-recursos-modeloRelatorio"
+                     },
+                     {
+                         "Name":  "manutencao-pipeline"
+                     },
+                     {
+                         "Name":  "pipeline-manutencao"
+                     },
+                     {
+                         "Name":  "ql-abreTelas"
+                     },
+                     {
+                         "Name":  "ql-orcamento-calculo"
+                     },
+                     {
+                         "Name":  "ql-orcamento-naturezaDespesa"
+                     },
+                     {
+                         "Name":  "ql-recursos-modeloRelatorio"
+                     },
+                     {
+                         "Name":  "retorna-vms-online-pipeline"
+                     },
+                     {
+                         "Name":  "rs-abreTelas"
+                     },
+                     {
+                         "Name":  "rs-diversos-webservices"
+                     },
+                     {
+                         "Name":  "rs-recursos-modeloRelatorio"
+                     },
+                     {
+                         "Name":  "sm-abreTelas"
+                     },
+                     {
+                         "Name":  "sm-colaboradores-fichaCadastral"
+                     },
+                     {
+                         "Name":  "sm-colaboradores-transferencias"
+                     },
+                     {
+                         "Name":  "sm-diversos-webservices"
+                     },
+                     {
+                         "Name":  "sm-empresa-definicoesEsocial"
+                     },
+                     {
+                         "Name":  "sm-empresa-exames"
+                     },
+                     {
+                         "Name":  "sm-eSocial-exclusaoLeitautesSST"
+                     },
+                     {
+                         "Name":  "sm-eSocial-fechamentoSST"
+                     },
+                     {
+                         "Name":  "sm-eSocial-s2210"
+                     },
+                     {
+                         "Name":  "sm-eSocial-s2220"
+                     },
+                     {
+                         "Name":  "sm-eSocial-s2221"
+                     },
+                     {
+                         "Name":  "sm-eSocial-s2240"
+                     },
+                     {
+                         "Name":  "sm-eSocial-s2240-2"
+                     },
+                     {
+                         "Name":  "sm-medicina-anotacoesQuestionarios"
+                     },
+                     {
+                         "Name":  "sm-medicina-atendimentos"
+                     },
+                     {
+                         "Name":  "sm-medicina-atestadoMedico"
+                     },
+                     {
+                         "Name":  "sm-medicina-geracaoVacina"
+                     },
+                     {
+                         "Name":  "sm-seguranca-agentesRisco"
+                     },
+                     {
+                         "Name":  "sm-seguranca-cipa"
+                     },
+                     {
+                         "Name":  "sm-seguranca-EPI"
+                     },
+                     {
+                         "Name":  "sm-seguranca-GHE"
+                     },
+                     {
+                         "Name":  "sm-Seguranca-InventarioDeRiscos"
+                     },
+                     {
+                         "Name":  "sm-seguranca-laudoAgente"
+                     },
+                     {
+                         "Name":  "sm-seguranca-matriculaESocial"
+                     },
+                     {
+                         "Name":  "sm-seguranca-modeloDeRelatorios"
+                     },
+                     {
+                         "Name":  "sm-seguranca-PPP"
+                     },
+                     {
+                         "Name":  "sm-seguranca-PPRA"
+                     },
+                     {
+                         "Name":  "sm-tabelas-cursoAperfeicoamento"
+                     },
+                     {
+                         "Name":  "tr-abreTelas"
+                     },
+                     {
+                         "Name":  "tr-pesquisa-cadastroPesquisa"
+                     },
+                     {
+                         "Name":  "tr-pesquisa-entrevistaDesligamento"
+                     },
+                     {
+                         "Name":  "tr-questionario-cadastroQuestionario"
+                     },
+                     {
+                         "Name":  "tr-treinamento-cadastroCalendario"
+                     },
+                     {
+                         "Name":  "tr-treinamento-cadastroCurso"
+                     },
+                     {
+                         "Name":  "tr-treinamento-cadastroOcupacoes"
+                     },
+                     {
+                         "Name":  "tr-treinamento-cadastroSalas"
+                     },
+                     {
+                         "Name":  "tr-treinamento-cadastroTreinamento"
+                     },
+                     {
+                         "Name":  "tr-treinamento-definicaoTurma"
+                     },
+                     {
+                         "Name":  "tr-treinamento-modeloRelatorio"
+                     }
+                 ]
+}

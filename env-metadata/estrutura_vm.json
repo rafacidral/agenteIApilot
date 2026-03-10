@@ -1,0 +1,207 @@
+﻿{
+    "BaseFolders":  [
+                        {
+                            "Name":  "160f05a5a14278e0826a955d016b47",
+                            "FullName":  "C:\\160f05a5a14278e0826a955d016b47"
+                        },
+                        {
+                            "Name":  "36eb6c4492a1259d9a366998319994",
+                            "FullName":  "C:\\36eb6c4492a1259d9a366998319994"
+                        },
+                        {
+                            "Name":  "53da9a1c07535f389d4d3a26",
+                            "FullName":  "C:\\53da9a1c07535f389d4d3a26"
+                        },
+                        {
+                            "Name":  "apache-ant",
+                            "FullName":  "C:\\apache-ant"
+                        },
+                        {
+                            "Name":  "apache-maven",
+                            "FullName":  "C:\\apache-maven"
+                        },
+                        {
+                            "Name":  "apache-tomcat",
+                            "FullName":  "C:\\apache-tomcat"
+                        },
+                        {
+                            "Name":  "app",
+                            "FullName":  "C:\\app"
+                        },
+                        {
+                            "Name":  "backup_bases_compartilhado",
+                            "FullName":  "C:\\backup_bases_compartilhado"
+                        },
+                        {
+                            "Name":  "backup_bases_compartilhadoCP",
+                            "FullName":  "C:\\backup_bases_compartilhadoCP"
+                        },
+                        {
+                            "Name":  "backup_bases_compartilhamento",
+                            "FullName":  "C:\\backup_bases_compartilhamento"
+                        },
+                        {
+                            "Name":  "bd7457f17c40f753b606477ca8ba",
+                            "FullName":  "C:\\bd7457f17c40f753b606477ca8ba"
+                        },
+                        {
+                            "Name":  "cfg-cp",
+                            "FullName":  "C:\\cfg-cp"
+                        },
+                        {
+                            "Name":  "cfg-cp-oracle",
+                            "FullName":  "C:\\cfg-cp-oracle"
+                        },
+                        {
+                            "Name":  "cfg-cp-postgres",
+                            "FullName":  "C:\\cfg-cp-postgres"
+                        },
+                        {
+                            "Name":  "cfg-cp-postgresnovo",
+                            "FullName":  "C:\\cfg-cp-postgresnovo"
+                        },
+                        {
+                            "Name":  "cfg-postgres",
+                            "FullName":  "C:\\cfg-postgres"
+                        },
+                        {
+                            "Name":  "cfg-postgres6104",
+                            "FullName":  "C:\\cfg-postgres6104"
+                        },
+                        {
+                            "Name":  "cfg-postgresnovo",
+                            "FullName":  "C:\\cfg-postgresnovo"
+                        },
+                        {
+                            "Name":  "cfg-sdm",
+                            "FullName":  "C:\\cfg-sdm"
+                        },
+                        {
+                            "Name":  "coverage",
+                            "FullName":  "C:\\coverage"
+                        },
+                        {
+                            "Name":  "Diagnostico_Jenkins",
+                            "FullName":  "C:\\Diagnostico_Jenkins"
+                        },
+                        {
+                            "Name":  "error-tests",
+                            "FullName":  "C:\\error-tests"
+                        },
+                        {
+                            "Name":  "EvidenciasTestesAuto",
+                            "FullName":  "C:\\EvidenciasTestesAuto"
+                        },
+                        {
+                            "Name":  "ferramentas",
+                            "FullName":  "C:\\ferramentas"
+                        },
+                        {
+                            "Name":  "gradle-7.4.1-bin",
+                            "FullName":  "C:\\gradle-7.4.1-bin"
+                        },
+                        {
+                            "Name":  "inetpub",
+                            "FullName":  "C:\\inetpub"
+                        },
+                        {
+                            "Name":  "infos_vm",
+                            "FullName":  "C:\\infos_vm"
+                        },
+                        {
+                            "Name":  "Jenkins",
+                            "FullName":  "C:\\Jenkins"
+                        },
+                        {
+                            "Name":  "jenkinsAgent",
+                            "FullName":  "C:\\jenkinsAgent"
+                        },
+                        {
+                            "Name":  "lixo",
+                            "FullName":  "C:\\lixo"
+                        },
+                        {
+                            "Name":  "LOGS",
+                            "FullName":  "C:\\LOGS"
+                        },
+                        {
+                            "Name":  "Microsoft",
+                            "FullName":  "C:\\Microsoft"
+                        },
+                        {
+                            "Name":  "New folder",
+                            "FullName":  "C:\\New folder"
+                        },
+                        {
+                            "Name":  "New folder (2)",
+                            "FullName":  "C:\\New folder (2)"
+                        },
+                        {
+                            "Name":  "PerfLogs",
+                            "FullName":  "C:\\PerfLogs"
+                        },
+                        {
+                            "Name":  "Program Files",
+                            "FullName":  "C:\\Program Files"
+                        },
+                        {
+                            "Name":  "Program Files (x86)",
+                            "FullName":  "C:\\Program Files (x86)"
+                        },
+                        {
+                            "Name":  "rh-cp",
+                            "FullName":  "C:\\rh-cp"
+                        },
+                        {
+                            "Name":  "Temp",
+                            "FullName":  "C:\\Temp"
+                        },
+                        {
+                            "Name":  "Users",
+                            "FullName":  "C:\\Users"
+                        },
+                        {
+                            "Name":  "Windows",
+                            "FullName":  "C:\\Windows"
+                        },
+                        {
+                            "Name":  "DLPForensicDataDelayUploadTracker.db",
+                            "FullName":  "C:\\DLPForensicDataDelayUploadTracker.db"
+                        },
+                        {
+                            "Name":  "gepImagem_Fundo_vm_testesAutomatizados_MNT.jpg",
+                            "FullName":  "C:\\gepImagem_Fundo_vm_testesAutomatizados_MNT.jpg"
+                        },
+                        {
+                            "Name":  "ok.txt",
+                            "FullName":  "C:\\ok.txt"
+                        },
+                        {
+                            "Name":  "SDK_INSTALL.log.TESTE100_000.log",
+                            "FullName":  "C:\\SDK_INSTALL.log.TESTE100_000.log"
+                        },
+                        {
+                            "Name":  "teste.txt",
+                            "FullName":  "C:\\teste.txt"
+                        },
+                        {
+                            "Name":  "tmuninst.ini",
+                            "FullName":  "C:\\tmuninst.ini"
+                        },
+                        {
+                            "Name":  "TreeSizeFree.exe",
+                            "FullName":  "C:\\TreeSizeFree.exe"
+                        },
+                        {
+                            "Name":  "wazuh-agent",
+                            "FullName":  "C:\\wazuh-agent"
+                        },
+                        {
+                            "Name":  "wsus.cmd",
+                            "FullName":  "C:\\wsus.cmd"
+                        }
+                    ],
+    "HostName":  "TESTE458",
+    "OS":  "Microsoft Windows Server 2022 Standard",
+    "Drive_C_FreeSpace_GB":  2.82
+}

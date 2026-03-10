@@ -1,0 +1,965 @@
+﻿{
+    "AgentPath":  "C:\\jenkinsAgent",
+    "Structure":  [
+                      {
+                          "Name":  "caches",
+                          "FullName":  "C:\\jenkinsAgent\\caches",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766150995626)\/"
+                      },
+                      {
+                          "Name":  "jenkinsAgent",
+                          "FullName":  "C:\\jenkinsAgent\\jenkinsAgent",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1681416453626)\/"
+                      },
+                      {
+                          "Name":  "remoting",
+                          "FullName":  "C:\\jenkinsAgent\\remoting",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171791626)\/"
+                      },
+                      {
+                          "Name":  "workspace",
+                          "FullName":  "C:\\jenkinsAgent\\workspace",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1773094932145)\/"
+                      },
+                      {
+                          "Name":  "agent.jar",
+                          "FullName":  "C:\\jenkinsAgent\\agent.jar",
+                          "Length":  1370647,
+                          "LastWriteTime":  "\/Date(1706582694986)\/"
+                      },
+                      {
+                          "Name":  "agent_startup.log",
+                          "FullName":  "C:\\jenkinsAgent\\agent_startup.log",
+                          "Length":  3846,
+                          "LastWriteTime":  "\/Date(1766153036558)\/"
+                      },
+                      {
+                          "Name":  "jenkinsAgent - Shortcut.lnk",
+                          "FullName":  "C:\\jenkinsAgent\\jenkinsAgent - Shortcut.lnk",
+                          "Length":  744,
+                          "LastWriteTime":  "\/Date(1727440262918)\/"
+                      },
+                      {
+                          "Name":  "launcher.bat",
+                          "FullName":  "C:\\jenkinsAgent\\launcher.bat",
+                          "Length":  319,
+                          "LastWriteTime":  "\/Date(1766158738142)\/"
+                      },
+                      {
+                          "Name":  "startup.log",
+                          "FullName":  "C:\\jenkinsAgent\\startup.log",
+                          "Length":  6147,
+                          "LastWriteTime":  "\/Date(1766166193659)\/"
+                      },
+                      {
+                          "Name":  "durable-task",
+                          "FullName":  "C:\\jenkinsAgent\\caches\\durable-task",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766150995626)\/"
+                      },
+                      {
+                          "Name":  "workspace",
+                          "FullName":  "C:\\jenkinsAgent\\jenkinsAgent\\workspace",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1681416453626)\/"
+                      },
+                      {
+                          "Name":  "teste",
+                          "FullName":  "C:\\jenkinsAgent\\jenkinsAgent\\workspace\\teste",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1681416453626)\/"
+                      },
+                      {
+                          "Name":  "jarCache",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767961434447)\/"
+                      },
+                      {
+                          "Name":  "logs",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1772762751780)\/"
+                      },
+                      {
+                          "Name":  "03",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\03",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171841670)\/"
+                      },
+                      {
+                          "Name":  "04",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\04",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691776175710)\/"
+                      },
+                      {
+                          "Name":  "05",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\05",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205934539)\/"
+                      },
+                      {
+                          "Name":  "07",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\07",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691793129001)\/"
+                      },
+                      {
+                          "Name":  "08",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\08",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783149494)\/"
+                      },
+                      {
+                          "Name":  "0C",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\0C",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783151829)\/"
+                      },
+                      {
+                          "Name":  "0F",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\0F",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684509031069)\/"
+                      },
+                      {
+                          "Name":  "13",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\13",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684186935730)\/"
+                      },
+                      {
+                          "Name":  "1A",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\1A",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1692622088054)\/"
+                      },
+                      {
+                          "Name":  "1B",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\1B",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652093379)\/"
+                      },
+                      {
+                          "Name":  "1C",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\1C",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1734154158474)\/"
+                      },
+                      {
+                          "Name":  "1D",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\1D",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727442112529)\/"
+                      },
+                      {
+                          "Name":  "1E",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\1E",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741571387)\/"
+                      },
+                      {
+                          "Name":  "1F",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\1F",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741571076)\/"
+                      },
+                      {
+                          "Name":  "20",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\20",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741574383)\/"
+                      },
+                      {
+                          "Name":  "21",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\21",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783215378)\/"
+                      },
+                      {
+                          "Name":  "23",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\23",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652096281)\/"
+                      },
+                      {
+                          "Name":  "26",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\26",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440634053)\/"
+                      },
+                      {
+                          "Name":  "28",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\28",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171847491)\/"
+                      },
+                      {
+                          "Name":  "29",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\29",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440634634)\/"
+                      },
+                      {
+                          "Name":  "2A",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\2A",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741567615)\/"
+                      },
+                      {
+                          "Name":  "2E",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\2E",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1687274329196)\/"
+                      },
+                      {
+                          "Name":  "2F",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\2F",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440634201)\/"
+                      },
+                      {
+                          "Name":  "30",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\30",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1760716729330)\/"
+                      },
+                      {
+                          "Name":  "32",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\32",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205938763)\/"
+                      },
+                      {
+                          "Name":  "37",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\37",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440378923)\/"
+                      },
+                      {
+                          "Name":  "3A",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\3A",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730743306939)\/"
+                      },
+                      {
+                          "Name":  "3B",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\3B",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741567379)\/"
+                      },
+                      {
+                          "Name":  "3E",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\3E",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205937832)\/"
+                      },
+                      {
+                          "Name":  "40",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\40",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765206445460)\/"
+                      },
+                      {
+                          "Name":  "42",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\42",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205935795)\/"
+                      },
+                      {
+                          "Name":  "43",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\43",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205938164)\/"
+                      },
+                      {
+                          "Name":  "48",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\48",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766161912839)\/"
+                      },
+                      {
+                          "Name":  "49",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\49",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1762398860888)\/"
+                      },
+                      {
+                          "Name":  "4A",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\4A",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652030630)\/"
+                      },
+                      {
+                          "Name":  "4D",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\4D",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205936151)\/"
+                      },
+                      {
+                          "Name":  "50",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\50",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691777256575)\/"
+                      },
+                      {
+                          "Name":  "52",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\52",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767956344788)\/"
+                      },
+                      {
+                          "Name":  "53",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\53",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767961429382)\/"
+                      },
+                      {
+                          "Name":  "57",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\57",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652093107)\/"
+                      },
+                      {
+                          "Name":  "5A",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\5A",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741568515)\/"
+                      },
+                      {
+                          "Name":  "5B",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\5B",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171867050)\/"
+                      },
+                      {
+                          "Name":  "5D",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\5D",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783167182)\/"
+                      },
+                      {
+                          "Name":  "5F",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\5F",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205939883)\/"
+                      },
+                      {
+                          "Name":  "60",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\60",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783268212)\/"
+                      },
+                      {
+                          "Name":  "61",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\61",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727442110921)\/"
+                      },
+                      {
+                          "Name":  "68",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\68",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440631494)\/"
+                      },
+                      {
+                          "Name":  "69",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\69",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440631989)\/"
+                      },
+                      {
+                          "Name":  "6A",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\6A",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440633843)\/"
+                      },
+                      {
+                          "Name":  "6C",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\6C",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741566662)\/"
+                      },
+                      {
+                          "Name":  "6E",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\6E",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766150996524)\/"
+                      },
+                      {
+                          "Name":  "70",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\70",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440378770)\/"
+                      },
+                      {
+                          "Name":  "71",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\71",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684186968103)\/"
+                      },
+                      {
+                          "Name":  "76",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\76",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652093892)\/"
+                      },
+                      {
+                          "Name":  "7C",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\7C",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765220593676)\/"
+                      },
+                      {
+                          "Name":  "7E",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\7E",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766150996333)\/"
+                      },
+                      {
+                          "Name":  "82",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\82",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741567455)\/"
+                      },
+                      {
+                          "Name":  "84",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\84",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1734154158550)\/"
+                      },
+                      {
+                          "Name":  "89",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\89",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741571330)\/"
+                      },
+                      {
+                          "Name":  "8B",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\8B",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684190696709)\/"
+                      },
+                      {
+                          "Name":  "8D",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\8D",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767961429911)\/"
+                      },
+                      {
+                          "Name":  "8E",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\8E",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691793172185)\/"
+                      },
+                      {
+                          "Name":  "8F",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\8F",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684190680535)\/"
+                      },
+                      {
+                          "Name":  "92",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\92",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684190682848)\/"
+                      },
+                      {
+                          "Name":  "93",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\93",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1704931731945)\/"
+                      },
+                      {
+                          "Name":  "94",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\94",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1708993590239)\/"
+                      },
+                      {
+                          "Name":  "96",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\96",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171862132)\/"
+                      },
+                      {
+                          "Name":  "98",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\98",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171850966)\/"
+                      },
+                      {
+                          "Name":  "99",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\99",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1760717225327)\/"
+                      },
+                      {
+                          "Name":  "9C",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\9C",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652041168)\/"
+                      },
+                      {
+                          "Name":  "9F",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\9F",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440631729)\/"
+                      },
+                      {
+                          "Name":  "A0",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A0",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1758545630099)\/"
+                      },
+                      {
+                          "Name":  "A2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A2",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765658208097)\/"
+                      },
+                      {
+                          "Name":  "A3",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A3",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765220592605)\/"
+                      },
+                      {
+                          "Name":  "A4",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A4",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652093288)\/"
+                      },
+                      {
+                          "Name":  "A5",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A5",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727440378644)\/"
+                      },
+                      {
+                          "Name":  "A6",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A6",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767956343688)\/"
+                      },
+                      {
+                          "Name":  "A7",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A7",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741571287)\/"
+                      },
+                      {
+                          "Name":  "A8",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A8",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205938391)\/"
+                      },
+                      {
+                          "Name":  "A9",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\A9",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783174653)\/"
+                      },
+                      {
+                          "Name":  "AB",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\AB",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205937432)\/"
+                      },
+                      {
+                          "Name":  "AF",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\AF",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783209222)\/"
+                      },
+                      {
+                          "Name":  "B0",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B0",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1757369194712)\/"
+                      },
+                      {
+                          "Name":  "B2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B2",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691776154405)\/"
+                      },
+                      {
+                          "Name":  "B3",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B3",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171830151)\/"
+                      },
+                      {
+                          "Name":  "B4",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B4",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741567230)\/"
+                      },
+                      {
+                          "Name":  "B5",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B5",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1758542360604)\/"
+                      },
+                      {
+                          "Name":  "B6",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B6",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684190667394)\/"
+                      },
+                      {
+                          "Name":  "B9",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\B9",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1758545630456)\/"
+                      },
+                      {
+                          "Name":  "BB",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\BB",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691783160995)\/"
+                      },
+                      {
+                          "Name":  "BE",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\BE",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765220590476)\/"
+                      },
+                      {
+                          "Name":  "BF",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\BF",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684190690246)\/"
+                      },
+                      {
+                          "Name":  "C1",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\C1",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205935186)\/"
+                      },
+                      {
+                          "Name":  "C2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\C2",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171878910)\/"
+                      },
+                      {
+                          "Name":  "C3",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\C3",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171865828)\/"
+                      },
+                      {
+                          "Name":  "C5",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\C5",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1727740505648)\/"
+                      },
+                      {
+                          "Name":  "C7",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\C7",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765206443782)\/"
+                      },
+                      {
+                          "Name":  "C8",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\C8",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765658208142)\/"
+                      },
+                      {
+                          "Name":  "CB",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\CB",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205934352)\/"
+                      },
+                      {
+                          "Name":  "CC",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\CC",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684190782423)\/"
+                      },
+                      {
+                          "Name":  "CD",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\CD",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765220593602)\/"
+                      },
+                      {
+                          "Name":  "CE",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\CE",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1691776171640)\/"
+                      },
+                      {
+                          "Name":  "D2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\D2",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171839326)\/"
+                      },
+                      {
+                          "Name":  "D3",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\D3",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730741568200)\/"
+                      },
+                      {
+                          "Name":  "D4",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\D4",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652095889)\/"
+                      },
+                      {
+                          "Name":  "D7",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\D7",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767961430374)\/"
+                      },
+                      {
+                          "Name":  "D9",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\D9",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205934597)\/"
+                      },
+                      {
+                          "Name":  "DA",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\DA",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1734154158335)\/"
+                      },
+                      {
+                          "Name":  "DC",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\DC",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652030497)\/"
+                      },
+                      {
+                          "Name":  "DD",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\DD",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766150995386)\/"
+                      },
+                      {
+                          "Name":  "E0",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\E0",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1766150995813)\/"
+                      },
+                      {
+                          "Name":  "E2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\E2",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652093809)\/"
+                      },
+                      {
+                          "Name":  "E3",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\E3",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205935465)\/"
+                      },
+                      {
+                          "Name":  "E4",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\E4",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1767961434577)\/"
+                      },
+                      {
+                          "Name":  "EC",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\EC",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652096072)\/"
+                      },
+                      {
+                          "Name":  "ED",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\ED",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205939185)\/"
+                      },
+                      {
+                          "Name":  "F1",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\F1",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730754704462)\/"
+                      },
+                      {
+                          "Name":  "F2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\F2",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171856233)\/"
+                      },
+                      {
+                          "Name":  "F5",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\F5",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1734154158439)\/"
+                      },
+                      {
+                          "Name":  "F6",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\F6",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684237124697)\/"
+                      },
+                      {
+                          "Name":  "F9",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\F9",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1706652092986)\/"
+                      },
+                      {
+                          "Name":  "FC",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\FC",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1765205938532)\/"
+                      },
+                      {
+                          "Name":  "FD",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\FD",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1684171834290)\/"
+                      },
+                      {
+                          "Name":  "FF",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\jarCache\\FF",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1730742049438)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.0",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.0",
+                          "Length":  0,
+                          "LastWriteTime":  "\/Date(1772762751780)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.0.1",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.0.1",
+                          "Length":  1427,
+                          "LastWriteTime":  "\/Date(1771372296223)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.0.1.lck",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.0.1.lck",
+                          "Length":  0,
+                          "LastWriteTime":  "\/Date(1768253066440)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.0.2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.0.2",
+                          "Length":  3557,
+                          "LastWriteTime":  "\/Date(1768253283374)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.0.2.lck",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.0.2.lck",
+                          "Length":  0,
+                          "LastWriteTime":  "\/Date(1768253221707)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.0.lck",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.0.lck",
+                          "Length":  0,
+                          "LastWriteTime":  "\/Date(1757019328545)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.1",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.1",
+                          "Length":  561,
+                          "LastWriteTime":  "\/Date(1772761926560)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.1.1",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.1.1",
+                          "Length":  13497,
+                          "LastWriteTime":  "\/Date(1768253408625)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.2",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.2",
+                          "Length":  10577,
+                          "LastWriteTime":  "\/Date(1771873914441)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.3",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.3",
+                          "Length":  11561,
+                          "LastWriteTime":  "\/Date(1771854036217)\/"
+                      },
+                      {
+                          "Name":  "remoting.log.4",
+                          "FullName":  "C:\\jenkinsAgent\\remoting\\logs\\remoting.log.4",
+                          "Length":  556,
+                          "LastWriteTime":  "\/Date(1771850355971)\/"
+                      },
+                      {
+                          "Name":  "00-jacoco-gera-relatorio",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\00-jacoco-gera-relatorio",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1709732376887)\/"
+                      },
+                      {
+                          "Name":  "00-jacoco-report3",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\00-jacoco-report3",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1709731229604)\/"
+                      },
+                      {
+                          "Name":  "job-dashboard-pipeline",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-dashboard-pipeline",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1771517179587)\/"
+                      },
+                      {
+                          "Name":  "job-dashboard-pipeline@tmp",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-dashboard-pipeline@tmp",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1771517288448)\/"
+                      },
+                      {
+                          "Name":  "job-relatorio-mensal-testes-pipeline",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-relatorio-mensal-testes-pipeline",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1773094932140)\/"
+                      },
+                      {
+                          "Name":  "job-relatorio-mensal-testes-pipeline@tmp",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-relatorio-mensal-testes-pipeline@tmp",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1773098559344)\/"
+                      },
+                      {
+                          "Name":  "TESTE_infos_vm_",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\TESTE_infos_vm_",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1660575081203)\/"
+                      },
+                      {
+                          "Name":  "teste_service_CIDRAL",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\teste_service_CIDRAL",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1692106850640)\/"
+                      },
+                      {
+                          "Name":  "durable-bbc22e3e",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-dashboard-pipeline@tmp\\durable-bbc22e3e",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1771517228858)\/"
+                      },
+                      {
+                          "Name":  "durable-e7dcf05a",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-dashboard-pipeline@tmp\\durable-e7dcf05a",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1771517183055)\/"
+                      },
+                      {
+                          "Name":  "durable-f733e6ca",
+                          "FullName":  "C:\\jenkinsAgent\\workspace\\job-dashboard-pipeline@tmp\\durable-f733e6ca",
+                          "Length":  null,
+                          "LastWriteTime":  "\/Date(1771517289182)\/"
+                      }
+                  ]
+}
